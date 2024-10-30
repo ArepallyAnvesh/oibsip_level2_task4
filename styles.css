@@ -1,0 +1,61 @@
+body {
+    background-color: #1a1a1a; /* Slightly lighter background */
+    color: #e0e0e0; /* Softer white color */
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.raleway-title {
+    font-weight: 900;
+}
+
+h1 {
+    color: #ff4500; /* Orange-red color */
+    text-align: center;
+    font-size: 3em; /* Increased size */
+    text-shadow: 2px 2px 6px #000;
+}
+
+h2 {
+    color: #ff4500; /* Orange-red color */
+    font-size: 2em; /* Increased size */
+    margin-top: 25px; /* Slightly increased margin */
+}
+
+.raleway-subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+p, ul {
+    line-height: 1.8; /* Increased line height for better readability */
+    font-size: 1.2em; /* Increased size */
+    font-weight: 400;
+}
+
+.image-container {
+    text-align: center;
+    margin: 25px 0; /* Slightly increased margin */
+}
+
+img {
+    width: 100%;
+    max-width: 600px; /* Increased max width */
+    border-radius: 15px; /* Increased border radius */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.6); /* Deeper shadow */
+}
+
+.main-image, .action-image, .celebration-image {
+    width: 85%; /* Increased width for images */
+}
+
+.container {
+    max-width: 900px; /* Increased container width */
+    margin: auto;
+    padding: 25px; /* Increased padding */
+    border: 2px solid #ff4500; /* Orange-red color */
+    border-radius: 15px; /* Increased border radius */
+    background-color: #2a2a2a; /* Darker background */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8); /* Deeper shadow */
+}
